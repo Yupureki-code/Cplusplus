@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_Test_2025_10_13\C++_Test_2025_10_13\test.cpp(26,27): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  C++_Test_2025_10_13.vcxproj -> E:\C C++ Files\cplusplus\C++_Test_2025_10_13\x64\Debug\C++_Test_2025_10_13.exe
