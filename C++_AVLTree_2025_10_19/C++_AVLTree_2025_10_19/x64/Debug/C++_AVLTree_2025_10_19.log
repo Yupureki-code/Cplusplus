@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_AVLTree_2025_10_19\C++_AVLTree_2025_10_19\test.cpp(51,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  C++_AVLTree_2025_10_19.vcxproj -> E:\C C++ Files\cplusplus\C++_AVLTree_2025_10_19\x64\Debug\C++_AVLTree_2025_10_19.exe
