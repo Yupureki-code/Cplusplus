@@ -1,0 +1,3 @@
+﻿E:\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  test.cpp
+  C++_Test_2025_10_5.vcxproj -> E:\C C++ Files\cplusplus\C++_Test_2025_10_5\x64\Debug\C++_Test_2025_10_5.exe
