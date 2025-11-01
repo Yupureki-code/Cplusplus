@@ -1,0 +1,32 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(9,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(42,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(194,36): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(194,36):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(43,21):
+          查看对正在编译的 类 模板 实例化“Unordered_Set<int>”的引用
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Unordered_Set.h(19,58):
+          查看对正在编译的 类 模板 实例化“HashTable<K,K,Unordered_Set<K>::MapOfKey,Unordered_Set<K>::MapOfValue,hashfunc<K>>”的引用
+          with
+          [
+              K=int
+          ]
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(181,7):
+          在编译 类 模板 成员函数“bool HashTable<K,K,Unordered_Set<K>::MapOfKey,Unordered_Set<K>::MapOfValue,hashfunc<K>>::Insert(const T &)”时
+          with
+          [
+              K=int,
+              T=int
+          ]
+              E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Unordered_Set.h(24,25):
+              请参阅 "Unordered_Set<int>::insert" 中对 "HashTable<K,K,Unordered_Set<K>::MapOfKey,Unordered_Set<K>::MapOfValue,hashfunc<K>>::Insert" 的第一个引用
+          with
+          [
+              K=int
+          ]
+              E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(57,15):
+              请参阅 "settest" 中对 "Unordered_Set<int>::insert" 的第一个引用
+  
+  C++_MyUnordered_Map-Set_2025_10_23.vcxproj -> E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\x64\Debug\C++_MyUnordered_Map-Set_2025_10_23.exe

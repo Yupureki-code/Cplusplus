@@ -1,0 +1,39 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(194,36): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(194,36):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(8,26):
+          查看对正在编译的 类 模板 实例化“Unordered_Map<int,int>”的引用
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Unordered_Map.h(20,67):
+          查看对正在编译的 类 模板 实例化“HashTable<K,std::pair<K,V>,Unordered_Map<K,V>::MapOfKey,Unordered_Map<K,V>::MapOfValue,hashfunc<K>>”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+          E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Hash.h(181,7):
+          在编译 类 模板 成员函数“bool HashTable<K,std::pair<K,V>,Unordered_Map<K,V>::MapOfKey,Unordered_Map<K,V>::MapOfValue,hashfunc<K>>::Insert(const T &)”时
+          with
+          [
+              K=int,
+              V=int,
+              T=std::pair<int,int>
+          ]
+              E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\Unordered_Map.h(24,25):
+              请参阅 "Unordered_Map<int,int>::insert" 中对 "HashTable<K,std::pair<K,V>,Unordered_Map<K,V>::MapOfKey,Unordered_Map<K,V>::MapOfValue,hashfunc<K>>::Insert" 的第一个引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+              E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\C++_MyUnordered_Map-Set_2025_10_23\test.cpp(22,15):
+              请参阅 "main" 中对 "Unordered_Map<int,int>::insert" 的第一个引用
+  
+  正在生成代码
+  1 of 396 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  C++_MyUnordered_Map-Set_2025_10_23.vcxproj -> E:\C C++ Files\cplusplus\C++_MyUnordered_Map-Set_2025_10_23\x64\Release\C++_MyUnordered_Map-Set_2025_10_23.exe
