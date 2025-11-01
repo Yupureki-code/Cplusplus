@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_My_List_2025_10_12\C++_My_List_2025_10_12\List.h(61,1): warning C4172: 返回局部变量的地址或临时 : tmp
+  C++_My_List_2025_10_12.vcxproj -> E:\C C++ Files\cplusplus\C++_My_List_2025_10_12\x64\Debug\C++_My_List_2025_10_12.exe
