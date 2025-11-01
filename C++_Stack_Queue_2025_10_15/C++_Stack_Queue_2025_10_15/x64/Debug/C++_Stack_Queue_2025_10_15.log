@@ -1,0 +1,46 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(106,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(106,30):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\test.cpp(10,44):
+          查看对正在编译的 类 模板 实例化“priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>”的引用
+          E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(99,10):
+          在编译 类 模板 成员函数“void priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::pop(void)”时
+              E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\test.cpp(11,8):
+              请参阅 "main" 中对 "priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::pop" 的第一个引用
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(108,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(110,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(112,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(42,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(42,27):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(39,10):
+          在编译 类 模板 成员函数“void priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::push(const T &)”时
+          with
+          [
+              T=int
+          ]
+              E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(19,17):
+              请参阅 "priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::priority_queue" 中对 "priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::push" 的第一个引用
+              E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\test.cpp(10,46):
+              请参阅 "main" 中对 "priority_queue<int,std::vector<int,std::allocator<int>>,std::less<int>>::priority_queue" 的第一个引用
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(43,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(45,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\C++_Stack_Queue_2025_10_15\priority_queue.h(47,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+  C++_Stack_Queue_2025_10_15.vcxproj -> E:\C C++ Files\cplusplus\C++_Stack_Queue_2025_10_15\x64\Debug\C++_Stack_Queue_2025_10_15.exe
