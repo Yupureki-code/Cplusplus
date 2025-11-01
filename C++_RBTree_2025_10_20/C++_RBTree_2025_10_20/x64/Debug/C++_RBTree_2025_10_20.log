@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_RBTree_2025_10_20\C++_RBTree_2025_10_20\test.cpp(53,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\cplusplus\C++_RBTree_2025_10_20\C++_RBTree_2025_10_20\RBTree.h(207,1): warning C4715: “RBTree<int,int>::_BlackCount”: 不是所有的控件路径都返回值
+  C++_RBTree_2025_10_20.vcxproj -> E:\C C++ Files\cplusplus\C++_RBTree_2025_10_20\x64\Debug\C++_RBTree_2025_10_20.exe
