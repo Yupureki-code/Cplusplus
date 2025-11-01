@@ -1,0 +1,13 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(114,21): warning C4018: “<”: 有符号/无符号不匹配
+      E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(114,21):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(133,12):
+          查看对正在编译的 类 模板 实例化“Stack<int>”的引用
+          E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(112,7):
+          在编译 类 模板 成员函数“void Stack<int>::StackPrint(void)”时
+              E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(139,15):
+              请参阅 "main" 中对 "Stack<int>::StackPrint" 的第一个引用
+  
+E:\C C++ Files\cplusplus\C++_Test_2025_10_7\C++_Test_2025_10_7\test.cpp(48,1): warning C4172: 返回局部变量的地址或临时 : a1
+  C++_Test_2025_10_7.vcxproj -> E:\C C++ Files\cplusplus\C++_Test_2025_10_7\Debug\C++_Test_2025_10_7.exe
