@@ -1,0 +1,17 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\C++_My_Vector_2025_10_11\Vector.h(186,21): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\C++_My_Vector_2025_10_11\Vector.h(186,21):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\C++_My_Vector_2025_10_11\test.cpp(17,17):
+          查看对正在编译的 类 模板 实例化“My_Vector<int>”的引用
+          E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\C++_My_Vector_2025_10_11\Vector.h(183,18):
+          在编译 类 模板 成员函数“int *My_Vector<int>::insert(int *,const T &)”时
+          with
+          [
+              T=int
+          ]
+              E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\C++_My_Vector_2025_10_11\test.cpp(42,12):
+              请参阅 "AutoTest" 中对 "My_Vector<int>::insert" 的第一个引用
+  
+  C++_My_Vector_2025_10_11.vcxproj -> E:\C C++ Files\cplusplus\C++_My_Vector_2025_10_11\x64\Debug\C++_My_Vector_2025_10_11.exe
