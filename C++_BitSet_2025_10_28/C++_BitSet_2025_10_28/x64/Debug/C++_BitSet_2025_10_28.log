@@ -1,0 +1,6 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\C++_BitSet_2025_10_28\C++_BitSet_2025_10_28\BitSet.h(17,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\C++_BitSet_2025_10_28\C++_BitSet_2025_10_28\test.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  C++_BitSet_2025_10_28.vcxproj -> E:\C C++ Files\cplusplus\C++_BitSet_2025_10_28\x64\Debug\C++_BitSet_2025_10_28.exe
