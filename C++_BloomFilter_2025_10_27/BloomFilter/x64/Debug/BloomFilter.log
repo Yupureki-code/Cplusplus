@@ -1,0 +1,35 @@
+﻿  test.cpp
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\test.cpp(6,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(85,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(85,44):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\test.cpp(7,20):
+          查看对正在编译的 类 模板 实例化“BloomFilter<1000>”的引用
+          E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(83,7):
+          在编译 类 模板 成员函数“bool BloomFilter<1000>::isexist(const std::string &)”时
+              E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\test.cpp(34,3):
+              请参阅 "main" 中对 "BloomFilter<1000>::isexist" 的第一个引用
+  
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(86,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(87,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(66,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+      E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(66,44):
+      模板实例化上下文(最早的实例化上下文)为
+          E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(64,7):
+          在编译 类 模板 成员函数“void BloomFilter<1000>::insert(const std::string &)”时
+              E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\test.cpp(23,12):
+              请参阅 "main" 中对 "BloomFilter<1000>::insert" 的第一个引用
+  
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(67,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+E:\C C++ Files\cplusplus\BloomFilter\BloomFilter\BloomFilter.h(68,44): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+  BloomFilter.vcxproj -> E:\C C++ Files\cplusplus\BloomFilter\x64\Debug\BloomFilter.exe
